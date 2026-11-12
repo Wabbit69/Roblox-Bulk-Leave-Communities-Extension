@@ -23,7 +23,7 @@ A Chrome, Edge, Brave and Opera GX extension that lets you select and leave mult
    - Opera GX: `opera://extensions`
 3. Turn on **Developer mode** (a toggle at the top-right in Chrome, Edge and Brave, or at the top of the page in Opera GX).
 4. Click **Load unpacked** and select the project folder.
-5. Log in at [roblox.com](https://www.roblox.com) and reload the page.
+5. Log in at [roblox.com]([https://www.roblox.com](https://www.roblox.com/communities)) and reload the page.
 
 **Opera GX tip:** to keep the toolbar button visible, click the puzzle-piece icon in the toolbar and pin the extension. The red floating button on roblox.com works either way.
 
